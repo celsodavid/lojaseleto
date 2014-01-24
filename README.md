@@ -1,1 +1,1 @@
-Desenvolvimento de loja zf2
+Loja virtual da Seleto Alimentos
