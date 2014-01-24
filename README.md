@@ -1,4 +1,1 @@
-seleto-loja
-===========
-
-Loja virtual da Seleto Alimentos
+Desenvolvimento de loja zf2
